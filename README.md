@@ -1,0 +1,2 @@
+# SmartEdu
+for school software
